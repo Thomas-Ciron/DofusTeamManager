@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Windows.Forms;
 
 namespace DofusTeamManager.Utils
@@ -17,6 +18,11 @@ namespace DofusTeamManager.Utils
         public static void FillComboBoxWithFile(ComboBox comboBox, string filePath)
         {
             FillComboBoxWithList(comboBox, FileManager.GetFileLines(filePath));
+        }
+
+        internal static void FillComboBoxWithList(ComboBox servorComboBox, object value)
+        {
+            throw new NotImplementedException();
         }
     }
 }

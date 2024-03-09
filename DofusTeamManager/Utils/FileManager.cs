@@ -97,5 +97,15 @@ namespace DofusTeamManager.Utils
             string fileContent = File.ReadAllText(source);
             WriteContentInFile(destination, fileContent);
         }
+
+        public static void SaveMatrixInCsv(string filePath, List<List<string>> matrix)
+        {
+            List<string> lines = new List<string>();
+            foreach(List<string> line in matrix)
+            {
+                lines.Add(string.Join(";", line));
+            }
+            WriteLinesInFile(filePath, lines);
+        }
     }
 }

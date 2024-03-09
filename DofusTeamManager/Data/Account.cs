@@ -54,5 +54,10 @@ namespace DofusTeamManager.Data
             }
             return result;
         }
+
+        public override string ToString()
+        {
+            return Name;
+        }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DofusTeamManager.Utils;
+using System;
 using System.Windows.Forms;
 
 namespace DofusTeamManager
@@ -11,6 +12,7 @@ namespace DofusTeamManager
         [STAThread]
         static void Main()
         {
+            Logger.SaveTitle("NEW RUN");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new HomeForm());

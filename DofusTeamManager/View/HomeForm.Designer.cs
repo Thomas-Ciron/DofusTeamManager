@@ -31,42 +31,53 @@
             this.menuStrip = new System.Windows.Forms.MenuStrip();
             this.charactersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.addCharacterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mainPanel = new System.Windows.Forms.Panel();
             this.menuStrip.SuspendLayout();
             this.SuspendLayout();
             // 
-            // menuStrip1
+            // menuStrip
             // 
             this.menuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.charactersToolStripMenuItem});
             this.menuStrip.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip.Name = "menuStrip1";
+            this.menuStrip.Name = "menuStrip";
             this.menuStrip.Size = new System.Drawing.Size(800, 24);
             this.menuStrip.TabIndex = 0;
             this.menuStrip.Text = "menuStrip1";
             // 
-            // personnagesToolStripMenuItem
+            // charactersToolStripMenuItem
             // 
             this.charactersToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.addCharacterToolStripMenuItem});
-            this.charactersToolStripMenuItem.Name = "personnagesToolStripMenuItem";
+            this.charactersToolStripMenuItem.Name = "charactersToolStripMenuItem";
             this.charactersToolStripMenuItem.Size = new System.Drawing.Size(86, 20);
             this.charactersToolStripMenuItem.Text = "Personnages";
             // 
-            // ajouterUnPersonnageToolStripMenuItem
+            // addCharacterToolStripMenuItem
             // 
-            this.addCharacterToolStripMenuItem.Name = "ajouterUnPersonnageToolStripMenuItem";
+            this.addCharacterToolStripMenuItem.Name = "addCharacterToolStripMenuItem";
             this.addCharacterToolStripMenuItem.Size = new System.Drawing.Size(195, 22);
             this.addCharacterToolStripMenuItem.Text = "Ajouter un personnage";
             this.addCharacterToolStripMenuItem.Click += new System.EventHandler(this.ClickedOnAddCharacter);
             // 
-            // HomeFome
+            // mainPanel
+            // 
+            this.mainPanel.Location = new System.Drawing.Point(0, 28);
+            this.mainPanel.Name = "mainPanel";
+            this.mainPanel.Size = new System.Drawing.Size(800, 420);
+            this.mainPanel.TabIndex = 1;
+            // 
+            // HomeForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.mainPanel);
             this.Controls.Add(this.menuStrip);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MainMenuStrip = this.menuStrip;
-            this.Name = "HomeFome";
+            this.MaximizeBox = false;
+            this.Name = "HomeForm";
             this.Text = "Dofus Team Manager";
             this.menuStrip.ResumeLayout(false);
             this.menuStrip.PerformLayout();
@@ -80,6 +91,7 @@
         private System.Windows.Forms.MenuStrip menuStrip;
         private System.Windows.Forms.ToolStripMenuItem charactersToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem addCharacterToolStripMenuItem;
+        private System.Windows.Forms.Panel mainPanel;
     }
 }
 

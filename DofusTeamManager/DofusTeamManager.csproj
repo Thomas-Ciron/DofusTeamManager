@@ -50,8 +50,16 @@
     <Compile Include="Data\Character.cs" />
     <Compile Include="Data\Race.cs" />
     <Compile Include="Data\Servor.cs" />
+    <Compile Include="Model\Party.cs" />
     <Compile Include="Utils\FileManager.cs" />
+    <Compile Include="Utils\Logger.cs" />
     <Compile Include="Utils\WidgetTool.cs" />
+    <Compile Include="View\AchievementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AchievementForm.Designer.cs">
+      <DependentUpon>AchievementForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\AddCharacterForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +83,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="View\AchievementForm.resx">
+      <DependentUpon>AchievementForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\AddCharacterForm.resx">
       <DependentUpon>AddCharacterForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -101,6 +112,14 @@
     <None Include="Data\Accounts.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\Parcours rapide.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Parcours.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -56,5 +56,17 @@ namespace DofusTeamManager.Data
                     return false;
             }
         }
+
+        public static int GetPartySize(this Servors servor)
+        {
+            if (servor.IsMonoAccountServor())
+            {
+                return 1;
+            }
+            else
+            {
+                return 8;
+            }
+        }
     }
 }
