@@ -34,8 +34,6 @@
             this.nameTextBox = new System.Windows.Forms.TextBox();
             this.accountLabel = new System.Windows.Forms.Label();
             this.accountComboBox = new System.Windows.Forms.ComboBox();
-            this.newAccountLabel = new System.Windows.Forms.Label();
-            this.newAccountTextBox = new System.Windows.Forms.TextBox();
             this.raceLabel = new System.Windows.Forms.Label();
             this.raceComboBox = new System.Windows.Forms.ComboBox();
             this.submitButton = new System.Windows.Forms.Button();
@@ -55,7 +53,7 @@
             this.servorComboBox.FormattingEnabled = true;
             this.servorComboBox.Location = new System.Drawing.Point(114, 4);
             this.servorComboBox.Name = "servorComboBox";
-            this.servorComboBox.Size = new System.Drawing.Size(121, 21);
+            this.servorComboBox.Size = new System.Drawing.Size(149, 21);
             this.servorComboBox.TabIndex = 1;
             // 
             // nameLabel
@@ -71,7 +69,7 @@
             // 
             this.nameTextBox.Location = new System.Drawing.Point(114, 38);
             this.nameTextBox.Name = "nameTextBox";
-            this.nameTextBox.Size = new System.Drawing.Size(121, 20);
+            this.nameTextBox.Size = new System.Drawing.Size(149, 20);
             this.nameTextBox.TabIndex = 3;
             // 
             // accountLabel
@@ -88,24 +86,8 @@
             this.accountComboBox.FormattingEnabled = true;
             this.accountComboBox.Location = new System.Drawing.Point(114, 72);
             this.accountComboBox.Name = "accountComboBox";
-            this.accountComboBox.Size = new System.Drawing.Size(121, 21);
+            this.accountComboBox.Size = new System.Drawing.Size(149, 21);
             this.accountComboBox.TabIndex = 5;
-            // 
-            // newAccountLabel
-            // 
-            this.newAccountLabel.AutoSize = true;
-            this.newAccountLabel.Location = new System.Drawing.Point(257, 80);
-            this.newAccountLabel.Name = "newAccountLabel";
-            this.newAccountLabel.Size = new System.Drawing.Size(89, 13);
-            this.newAccountLabel.TabIndex = 6;
-            this.newAccountLabel.Text = "Nouveau compte";
-            // 
-            // newAccountTextBox
-            // 
-            this.newAccountTextBox.Location = new System.Drawing.Point(352, 77);
-            this.newAccountTextBox.Name = "newAccountTextBox";
-            this.newAccountTextBox.Size = new System.Drawing.Size(121, 20);
-            this.newAccountTextBox.TabIndex = 7;
             // 
             // raceLabel
             // 
@@ -121,7 +103,7 @@
             this.raceComboBox.FormattingEnabled = true;
             this.raceComboBox.Location = new System.Drawing.Point(114, 107);
             this.raceComboBox.Name = "raceComboBox";
-            this.raceComboBox.Size = new System.Drawing.Size(121, 21);
+            this.raceComboBox.Size = new System.Drawing.Size(149, 21);
             this.raceComboBox.TabIndex = 9;
             // 
             // submitButton
@@ -132,24 +114,26 @@
             this.submitButton.TabIndex = 10;
             this.submitButton.Text = "Ajouter ce personnage! ";
             this.submitButton.UseVisualStyleBackColor = true;
+            this.submitButton.Click += new System.EventHandler(this.ClickedOnSubmitButton);
             // 
             // AddCharacterForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(486, 174);
+            this.ClientSize = new System.Drawing.Size(275, 174);
             this.Controls.Add(this.submitButton);
             this.Controls.Add(this.raceComboBox);
             this.Controls.Add(this.raceLabel);
-            this.Controls.Add(this.newAccountTextBox);
-            this.Controls.Add(this.newAccountLabel);
             this.Controls.Add(this.accountComboBox);
             this.Controls.Add(this.accountLabel);
             this.Controls.Add(this.nameTextBox);
             this.Controls.Add(this.nameLabel);
             this.Controls.Add(this.servorComboBox);
             this.Controls.Add(this.servorLabel);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
             this.Name = "AddCharacterForm";
+            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.Text = "Ajouter un personnage";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -164,8 +148,6 @@
         private System.Windows.Forms.TextBox nameTextBox;
         private System.Windows.Forms.Label accountLabel;
         private System.Windows.Forms.ComboBox accountComboBox;
-        private System.Windows.Forms.Label newAccountLabel;
-        private System.Windows.Forms.TextBox newAccountTextBox;
         private System.Windows.Forms.Label raceLabel;
         private System.Windows.Forms.ComboBox raceComboBox;
         private System.Windows.Forms.Button submitButton;
