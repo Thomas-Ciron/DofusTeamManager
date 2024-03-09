@@ -46,11 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="View\Form1.cs">
+    <Compile Include="View\AddCharacterForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="View\AddCharacterForm.Designer.cs">
+      <DependentUpon>AddCharacterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\HomeForm.Designer.cs">
+      <DependentUpon>HomeForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -63,6 +69,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="View\AddCharacterForm.resx">
+      <DependentUpon>AddCharacterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\HomeForm.resx">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DofusTeamManager
+namespace DofusTeamManager.View
 {
-    public partial class Form1 : Form
+    public partial class AddCharacterForm : Form
     {
-        public Form1()
+        public AddCharacterForm()
         {
             InitializeComponent();
         }
