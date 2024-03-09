@@ -37,5 +37,11 @@ namespace DofusTeamManager
             AddCharacterForm addCharacterform = new AddCharacterForm();
             addCharacterform.ShowDialog();
         }
+
+        private void ClickedOnAddAccount(object sender, EventArgs e)
+        {
+            AddAccountForm addAccountForm = new AddAccountForm();
+            addAccountForm.ShowDialog();
+        }
     }
 }

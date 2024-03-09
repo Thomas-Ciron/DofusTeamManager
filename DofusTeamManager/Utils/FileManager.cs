@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 
 namespace DofusTeamManager.Utils
 {
@@ -11,7 +10,7 @@ namespace DofusTeamManager.Utils
         {
             if (!File.Exists(filePath))
             {
-                Console.WriteLine("No such file: " + filePath);
+                Logger.Save($"No such file: {filePath}");
                 return null;
             }
             List<string> lines = new List<string>();
@@ -20,12 +19,15 @@ namespace DofusTeamManager.Utils
                 using (StreamReader reader = new StreamReader(filePath))
                 {
                     string line;
-                    while ((line = reader.ReadLine()) != null) lines.Add(line);
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        if(!string.IsNullOrWhiteSpace(line)) lines.Add(line);
+                    }
                 }
             }
             catch (Exception ex)
             {
-                Console.WriteLine("An error occured while reading " + filePath + ": " + ex.Message);
+                Logger.Save($"An error occured while reading {filePath}: {ex.Message}");
             }
             return lines;
         }
@@ -66,7 +68,7 @@ namespace DofusTeamManager.Utils
                     writer.WriteLine(content);
                 }
             }
-            catch (Exception ex) { Console.WriteLine("Error: couldn't append content to " + filePath + ": " + ex.Message); }
+            catch (Exception ex) { Console.WriteLine($"Error: couldn't append content to {filePath} : {ex.Message}"); }
 
         }
 

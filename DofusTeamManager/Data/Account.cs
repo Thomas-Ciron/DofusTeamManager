@@ -31,7 +31,7 @@ namespace DofusTeamManager.Data
         public Account(string name, string isSubscribed)
         {
             Name = name;
-            IsSubscribed = isSubscribed == "1";
+            IsSubscribed = isSubscribed == "True";
         }
 
         public static List<Account> GetAccounts()

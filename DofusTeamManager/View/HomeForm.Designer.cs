@@ -32,13 +32,16 @@
             this.charactersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.addCharacterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mainPanel = new System.Windows.Forms.Panel();
+            this.comptesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ajouterUnCompteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip
             // 
             this.menuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.charactersToolStripMenuItem});
+            this.charactersToolStripMenuItem,
+            this.comptesToolStripMenuItem});
             this.menuStrip.Location = new System.Drawing.Point(0, 0);
             this.menuStrip.Name = "menuStrip";
             this.menuStrip.Size = new System.Drawing.Size(800, 24);
@@ -67,6 +70,21 @@
             this.mainPanel.Size = new System.Drawing.Size(800, 420);
             this.mainPanel.TabIndex = 1;
             // 
+            // comptesToolStripMenuItem
+            // 
+            this.comptesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.ajouterUnCompteToolStripMenuItem});
+            this.comptesToolStripMenuItem.Name = "comptesToolStripMenuItem";
+            this.comptesToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
+            this.comptesToolStripMenuItem.Text = "Comptes";
+            // 
+            // ajouterUnCompteToolStripMenuItem
+            // 
+            this.ajouterUnCompteToolStripMenuItem.Name = "ajouterUnCompteToolStripMenuItem";
+            this.ajouterUnCompteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.ajouterUnCompteToolStripMenuItem.Text = "Ajouter un compte";
+            this.ajouterUnCompteToolStripMenuItem.Click += new System.EventHandler(this.ClickedOnAddAccount);
+            // 
             // HomeForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -92,6 +110,8 @@
         private System.Windows.Forms.ToolStripMenuItem charactersToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem addCharacterToolStripMenuItem;
         private System.Windows.Forms.Panel mainPanel;
+        private System.Windows.Forms.ToolStripMenuItem comptesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem ajouterUnCompteToolStripMenuItem;
     }
 }
 
