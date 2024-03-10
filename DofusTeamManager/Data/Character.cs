@@ -103,6 +103,17 @@ namespace DofusTeamManager.Data
             return AchievementsToDo.Contains(achievement);
         }
 
+        public bool CanDoAchievement(string achievement)
+        {
+            List<string> requirements = FileManager.GetCsvRowElements("Data/Préréequis.csv", achievement);
+            if (requirements == null) return true;
+            for(int i = 1; i < requirements.Count; i++)
+            {
+                if (ShouldDoAchievement(requirements[i])) return false;
+            }
+            return true;
+        }
+
         public bool HasMoreAchievementsToDoThan(Character other)
         {
             return AchievementsToDo.Count > other.AchievementsToDo.Count;

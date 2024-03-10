@@ -109,5 +109,30 @@ namespace DofusTeamManager.Utils
             }
             WriteLinesInFile(filePath, lines);
         }
+
+        public static List<string> GetCsvRowElements(string filePath, string firstColumnContent)
+        {
+            List<List<string>> csvContent = GetCsvContent(filePath);
+            if (csvContent == null) return null;
+            foreach (List<string> line in csvContent)
+            {
+                if (line[0] == firstColumnContent) return line;
+            }
+            return null;
+        }
+
+        public static List<int> GetBytesFrom(string filePath)
+        {
+            if(!Exists(filePath)) return null;
+            List<int> bytes = new List<int>();
+            byte[] data = File.ReadAllBytes(filePath);
+            foreach (byte b in data) bytes.Add(b);
+            return bytes;
+        }
+
+        public static void WriteBytesInFile(string filePath, List<byte> bytes)
+        {
+            File.WriteAllBytes(filePath, bytes.ToArray());
+        }
     }
 }

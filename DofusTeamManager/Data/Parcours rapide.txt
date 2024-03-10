@@ -3,7 +3,7 @@ Crypte de Kardorim
 Kardorim (Zombie)
 Kardorim (Premier)
 Kardorim (Duo)
-Kardorim (Score 200)
+Kardorim (Spécial)
 Paysan 10
 Chasseur 10
 Les principes d'Archie m'aident
@@ -24,7 +24,7 @@ Grange du Tournesol Affamé
 Tournesol Affamé (Collant)
 Tournesol Affamé (Premier)
 Tournesol Affamé (Duo)
-Tournesol Affamé (Score 200)
+Tournesol Affamé (Spécial)
 Comme un pichon hors de l'eau
 Donjon en mousse
 Pichons
@@ -32,7 +32,7 @@ Château Ensablé
 Mob l'Éponge (Versatile)
 Mob l'Éponge (Anachorète)
 Mob l'Éponge (Duo)
-Mob l'Éponge (Score 200)
+Mob l'Éponge (Spécial)
 Scène de ménage
 Shushu et Lulu
 Paysan 30
@@ -50,7 +50,7 @@ Cour du Bouftou Royal
 Bouftou Royal (Pusillanime)
 Bouftou Royal (Blitzkrieg)
 Bouftou Royal (Duo)
-Bouftou Royal (Score 200)
+Bouftou Royal (Spécial)
 Rats Strubiens
 Paysan 40
 Chasseur 40
@@ -62,7 +62,7 @@ Cache de Kankreblath
 Kankreblath (Dernier)
 Kankreblath (Collant)
 Kankreblath (Duo)
-Kankreblath (Score 200)
+Kankreblath (Spécial)
 Combat de rue
 Protéger et sévir
 Vermines des champs
@@ -76,7 +76,7 @@ Donjon des Squelettes
 Chafer Ronin (Premier)
 Chafer Ronin (Nomade)
 Chafer Ronin (Duo)
-Chafer Ronin (Score 200)
+Chafer Ronin (Spécial)
 Alignement Bonta 5
 Alignement Bonta 6
 Alignement Bonta 7
@@ -88,7 +88,7 @@ Donjon des Tofus
 Batofu (Statue)
 Batofu (Versatile)
 Batofu (Duo)
-Batofu (Score 200)
+Batofu (Spécial)
 Champas
 Pattes aux œufs frais
 Les sbires du maître (Scarabosse Doré)
@@ -97,14 +97,14 @@ Donjon des Scarafeuilles
 Scarabosse Doré (Zombie)
 Scarabosse Doré (Mains propres)
 Scarabosse Doré (Duo)
-Scarabosse Doré (Score 200)
+Scarabosse Doré (Spécial)
 Fantômes contre fantômes
 Donjon en lambeaux
 Maison Fantôme
 Boostache (Dernier)
 Boostache (Anachorète)
 Boostache (Duo)
-Boostache (Score 200)
+Boostache (Spécial)
 Bêtes de la nuit
 Intrusion chez les wabbits
 Le réceptacle des Dofus
@@ -145,7 +145,7 @@ Donjon des Forgerons
 Coffre des Forgerons (Nomade)
 Coffre des Forgerons (Premier)
 Coffre des Forgerons (Duo)
-Coffre des Forgerons (Score 200)
+Coffre des Forgerons (Spécial)
 Kartier Tremai se met à table
 Pinta Gone veut se remplir de bière Bwork
 Ange de Gobriel
@@ -162,7 +162,7 @@ Donjon des Bworks
 Bworkette (Anachorète)
 Bworkette (Premier)
 Bworkette (Duo)
-Bworkette (Score 200)
+Bworkette (Spécial)
 Gobmichet vibre pour Gobrose
 Titi Gobelait le magobelin
 Les sbires du maître (Shin Larve)
@@ -171,7 +171,7 @@ Donjon des Larves
 Shin Larve (Pusillanime)
 Shin Larve (Versatile)
 Shin Larve (Duo)
-Shin Larve (Score 200)
+Shin Larve (Spécial)
 L'Ascension
 Alignement Brâkmar 11
 Les sbires du maître (Kwakwa)
@@ -183,7 +183,7 @@ Nid du Kwakwa
 Kwakwa (Zombie)
 Kwakwa (Mains propres)
 Kwakwa (Duo)
-Kwakwa (Score 200)
+Kwakwa (Spécial)
 Sort Capture d'âmes
 Le nouveau monde
 L'île des naufragés
@@ -195,7 +195,7 @@ Akadémie des Gobs
 Directeur Grunob (Nomade)
 Directeur Grunob (Premier)
 Directeur Grunob (Duo)
-Directeur Grunob (Score 200)
+Directeur Grunob (Spécial)
 Sort Foudroiement de Grunob
 Alignement Brâkmar 12
 Alignement Brâkmar 13
@@ -220,7 +220,7 @@ Grotte Hesque
 Corailleur Magistral (Hardi)
 Corailleur Magistral (Blitzkrieg)
 Corailleur Magistral (Duo)
-Corailleur Magistral (Score 200)
+Corailleur Magistral (Spécial)
 Prologue
 La terre banquise
 La maire de glace
@@ -243,7 +243,7 @@ Refuge sylvestre
 Rakoopeur (Dernier)
 Rakoopeur (Pusillanime)
 Rakoopeur (Duo)
-Rakoopeur (Score 200)
+Rakoopeur (Spécial)
 La complote des P.O.M.S
 Alchimiste 60
 Paysan 60
@@ -273,7 +273,7 @@ Clos des Blops
 Blops Royaux (Duel)
 Blops Royaux (Pusillanime)
 Blops Royaux (Duo)
-Blops Royaux (Score 200)
+Blops Royaux (Spécial)
 Alignement Brâkmar 17
 Alignement Brâkmar 18
 Alignement Bonta 17
@@ -288,7 +288,7 @@ Village Kanniboul
 Kanniboul Ebil (Zombie)
 Kanniboul Ebil (Premier)
 Kanniboul Ebil (Duo)
-Kanniboul Ebil (Score 200)
+Kanniboul Ebil (Spécial)
 Sort Kannibulle
 Guewwe et Paix
 Sauvegarder l'espèce
@@ -312,7 +312,7 @@ Château du Wa Wabbit
 Wa Wabbit (Hardi)
 Wa Wabbit (Blitzkrieg)
 Wa Wabbit (Duo)
-Wa Wabbit (Score 200)
+Wa Wabbit (Spécial)
 On recherche Nono le Wobot
 Moins on en a et plus on l'étale
 Comment se mettre au jus
@@ -324,7 +324,7 @@ Gelaxième Dimension
 Gelées Royales (Duel)
 Gelées Royales (Collant)
 Gelées Royales (Duo)
-Gelées Royales (Score 200)
+Gelées Royales (Spécial)
 Alignement Brâkmar 20
 Ordre Brâkmar 1
 Alignement Brâkmar 21
@@ -358,7 +358,7 @@ Cale de l'Arche d'Otomaï
 Gourlo le Terrible (Premier)
 Gourlo le Terrible (Économe)
 Gourlo le Terrible (Duo)
-Gourlo le Terrible (Score 200)
+Gourlo le Terrible (Spécial)
 On recherche Nenufor Tilotus
 On recherche Armada l'Invincible
 Épicerie fine
@@ -373,7 +373,7 @@ Donjon des Craqueleurs
 Craqueleur Légendaire (Premier)
 Craqueleur Légendaire (Pusillanime)
 Craqueleur Légendaire (Duo)
-Craqueleur Légendaire (Score 200)
+Craqueleur Légendaire (Spécial)
 Alignement Brâkmar 23
 Alignement Brâkmar 24
 Alignement Brâkmar 25
@@ -397,14 +397,14 @@ Laboratoire de Brumen Tinctorias
 Nelween (Dernier)
 Nelween (Anachorète)
 Nelween (Duo)
-Nelween (Score 200)
+Nelween (Spécial)
 On recherche Brumen Tinctorias
 Dragœufs Immatures
 Épreuve de Draegnerys
 Draegnerys (Focus)
 Draegnerys (Hardi)
 Draegnerys (Duo)
-Draegnerys (Score 200)
+Draegnerys (Spécial)
 Alchimiste 80
 Paysan 80
 Pêcheur 80
@@ -452,7 +452,7 @@ Cimetière des Mastodontes
 Mantiscore (Mains propres)
 Mantiscore (Zombie)
 Mantiscore (Duo)
-Mantiscore (Score 200)
+Mantiscore (Spécial)
 Sort Mantiscroc
 On recherche Tournade
 Voyage au centre du Wabbit
@@ -464,7 +464,7 @@ Terrier du Wa Wabbit
 Wa Wobot (Mains propres)
 Wa Wobot (Blitzkrieg)
 Wa Wobot (Duo)
-Wa Wobot (Score 200)
+Wa Wobot (Spécial)
 Un peu de wab
 Ça rend aimable
 Les pwinces déchus
@@ -499,7 +499,7 @@ Antre de la Reine Nyée
 Reine Nyée (Premier)
 Reine Nyée (Hardi)
 Reine Nyée (Duo)
-Reine Nyée (Score 200)
+Reine Nyée (Spécial)
 Munster lève le mystère
 Un juge hystérique (Abraknyde Ancestral)
 Alignement Bonta 33
@@ -508,7 +508,7 @@ Domaine Ancestral
 Abraknyde Ancestral (Nomade)
 Abraknyde Ancestral (Premier)
 Abraknyde Ancestral (Duo)
-Abraknyde Ancestral (Score 200)
+Abraknyde Ancestral (Spécial)
 On recherche Tyranne la Terrible
 Alignement Brâkmar 34
 Alignement Brâkmar 35
@@ -530,7 +530,7 @@ Bateau du Chouque
 Le Chouque (Nomade)
 Le Chouque (Dernier)
 Le Chouque (Duo)
-Le Chouque (Score 200)
+Le Chouque (Spécial)
 Serrons-nous la main
 On recherche Degolas
 Le casse-bonbon
@@ -544,7 +544,7 @@ Chapiteau des Magik Riktus
 Choudini (Collant)
 Choudini (Hardi)
 Choudini (Duo)
-Choudini (Score 200)
+Choudini (Spécial)
 On recherche Simbadas
 Alchimiste 100
 Paysan 100
@@ -566,14 +566,14 @@ Antre du Dragon Cochon
 Dragon Cochon (Hardi)
 Dragon Cochon (Versatile)
 Dragon Cochon (Duo)
-Dragon Cochon (Score 200)
+Dragon Cochon (Spécial)
 On recherche Prince Marchand
 Dragoss
 Repaire du Kharnozor
 Kharnozor (Dernier)
 Kharnozor (Circulez)
 Kharnozor (Duo)
-Kharnozor (Score 200)
+Kharnozor (Spécial)
 Charger la mule
 Un juge hystérique (Koulosse)
 Alignement Bonta 40
@@ -583,7 +583,7 @@ Caverne du Koulosse
 Koulosse (Zombie)
 Koulosse (Mains propres)
 Koulosse (Duo)
-Koulosse (Score 200)
+Koulosse (Spécial)
 Sort Apprivoisement de monture
 Naissance d'une vocation
 La belle ermite
@@ -598,7 +598,7 @@ Tanière du Meulou
 Meulou (Premier)
 Meulou (Hardi)
 Meulou (Duo)
-Meulou (Score 200)
+Meulou (Spécial)
 On recherche Carlita de l'Aguerfelde
 Ordre Brâkmar 2
 Ordre Bonta 2
@@ -611,7 +611,7 @@ Théâtre de Dramak
 Maître des Pantins (Statue)
 Maître des Pantins (Mains propres)
 Maître des Pantins (Duo)
-Maître des Pantins (Score 200)
+Maître des Pantins (Spécial)
 On recherche Naganita
 Rendez-vous avec la lune
 Tour d'horizon
@@ -620,7 +620,7 @@ Arbre de Moon
 Moon (Statue)
 Moon (Versatile)
 Moon (Duo)
-Moon (Score 200)
+Moon (Spécial)
 On recherche Trukipik
 Voyage, voyage
 La porte d'Énutrosor
@@ -634,7 +634,7 @@ Fabrique de Malléfisk
 Malléfisk (Circulez)
 Malléfisk (Blitzkrieg)
 Malléfisk (Duo)
-Malléfisk (Score 200)
+Malléfisk (Spécial)
 Koffrefors
 On recherche la Maxi-Malle
 La cité de l'indicible mal
@@ -675,7 +675,7 @@ Garde-manger du Rat Blanc
 Rat Blanc (Premier)
 Rat Blanc (Hardi)
 Rat Blanc (Duo)
-Rat Blanc (Score 200)
+Rat Blanc (Spécial)
 Déficience immunitaire
 La lumière au bout des égouts
 Fait comme un rat
@@ -686,7 +686,7 @@ Sousouricière du Rat Noir
 Rat Noir (Blitzkrieg)
 Rat Noir (Hardi)
 Rat Noir (Duo)
-Rat Noir (Score 200)
+Rat Noir (Spécial)
 Alignement Brâkmar 42
 Alignement Brâkmar 43
 Alignement Brâkmar 44
@@ -712,7 +712,7 @@ Bibliothèque du Maître Corbac
 Maître Corbac (Premier)
 Maître Corbac (Collant)
 Maître Corbac (Duo)
-Maître Corbac (Score 200)
+Maître Corbac (Spécial)
 Un autre moyen de transport
 Scaéroplane à très grande vitesse
 Le fils caché
@@ -723,7 +723,7 @@ Goulet du Rasboul
 Silf le Rasboul Majeur (Premier)
 Silf le Rasboul Majeur (Temps qui court)
 Silf le Rasboul Majeur (Duo)
-Silf le Rasboul Majeur (Score 200)
+Silf le Rasboul Majeur (Spécial)
 On recherche Gobrechaun
 Ça est frugal, une fois
 À la croisée des mondes
@@ -747,7 +747,7 @@ Bambusaie de Damadrya
 Damadrya (Premier)
 Damadrya (Hardi)
 Damadrya (Duo)
-Damadrya (Score 200)
+Damadrya (Spécial)
 Gokwa : Voie du bâton
 Présence d'esprits (Esprit d'initiative)
 Les chasses de Crocodaille Dandi (partie 3)
@@ -761,7 +761,7 @@ Miausolée du Pounicheur
 Pounicheur (Statue)
 Pounicheur (Blitzkrieg)
 Pounicheur (Duo)
-Pounicheur (Score 200)
+Pounicheur (Spécial)
 Écaflipuces
 Alchimiste 120
 Paysan 120
@@ -796,7 +796,7 @@ Serre du Royalmouth
 Royalmouth (Mains propres)
 Royalmouth (Premier)
 Royalmouth (Duo)
-Royalmouth (Score 200)
+Royalmouth (Spécial)
 Souvenir, souvenir
 Bienvenue à Frigost
 On recherche Bouflouth
@@ -807,7 +807,7 @@ Centre du Labyrinthe du Minotoror
 Minotoror (Mains propres)
 Minotoror (Anachorète)
 Minotoror (Duo)
-Minotoror (Score 200)
+Minotoror (Spécial)
 On recherche la Vashkiwi
 Le trésor de Totankama (partie 1)
 Sort Flamèche
@@ -818,21 +818,21 @@ Antre du Blop Multicolore Royal
 Blop Multicolore Royal (Hardi)
 Blop Multicolore Royal (Duel)
 Blop Multicolore Royal (Duo)
-Blop Multicolore Royal (Score 200)
+Blop Multicolore Royal (Spécial)
 Des donjons, encore des donjons (Tofu Royal)
 Gros Tofus
 Tofulailler Royal
 Tofu Royal (Dernier)
 Tofu Royal (Statue)
 Tofu Royal (Duo)
-Tofu Royal (Score 200)
+Tofu Royal (Spécial)
 Des donjons, encore des donjons (Crocabulia)
 Dragœufs Protecteurs
 Antre de Crocabulia
 Crocabulia (Statue)
 Crocabulia (Versatile)
 Crocabulia (Duo)
-Crocabulia (Score 200)
+Crocabulia (Spécial)
 Alignement Brâkmar 50
 Alignement Bonta 50
 Koalaks primitifs
@@ -843,7 +843,7 @@ Repaire de Skeunk
 Skeunk (Blitzkrieg)
 Skeunk (Statue)
 Skeunk (Duo)
-Skeunk (Score 200)
+Skeunk (Spécial)
 Sort Boomerang Perfide
 Anomalies temporelles
 C'est ton destin
@@ -854,7 +854,7 @@ Mégalithe de Fraktale
 Fraktale (Blitzkrieg)
 Fraktale (Anachorète)
 Fraktale (Duo)
-Fraktale (Score 200)
+Fraktale (Spécial)
 Xélomorphes
 On recherche Morblok
 À plus dans l'muldobus
@@ -912,7 +912,7 @@ Atelier du Tanukouï San
 Tanukouï San (Versatile)
 Tanukouï San (Statue)
 Tanukouï San (Duo)
-Tanukouï San (Score 200)
+Tanukouï San (Spécial)
 Présence d'esprits (Esprit critique)
 On recherche Jérart Dupaindur
 Présence d'esprits (Esprit dérangé)
@@ -926,7 +926,7 @@ Vallée de la Dame des eaux
 Nagate la Dame des eaux (Nomade)
 Nagate la Dame des eaux (Pusillanime)
 Nagate la Dame des eaux (Duo)
-Nagate la Dame des eaux (Score 200)
+Nagate la Dame des eaux (Spécial)
 Présence d'esprits (Esprit chagrin)
 Ça katche ou ça casse
 Fanfouille
@@ -938,7 +938,7 @@ Ring du Capitaine Ekarlatte
 Capitaine Ekarlatte (Focus)
 Capitaine Ekarlatte (Statue)
 Capitaine Ekarlatte (Duo)
-Capitaine Ekarlatte (Score 200)
+Capitaine Ekarlatte (Spécial)
 Malveilleurs
 On recherche Pantèroz
 Alignement Brâkmar 55
@@ -949,7 +949,7 @@ Volière de la Haute Truche
 Haute Truche (Premier)
 Haute Truche (Barbare)
 Haute Truche (Duo)
-Haute Truche (Score 200)
+Haute Truche (Spécial)
 Frankenstruche
 On recherche Fojumo
 Alignement Brâkmar 56
@@ -975,7 +975,7 @@ Caverne d'El Piko
 El Piko (Blitzkrieg)
 El Piko (Duel)
 El Piko (Duo)
-El Piko (Score 200)
+El Piko (Spécial)
 On recherche le Roi Camole
 Alchimiste 140
 Paysan 140
@@ -1006,7 +1006,7 @@ Fabrique des foux d'artifice
 Founoroshi (Collant)
 Founoroshi (Pusillanime)
 Founoroshi (Duo)
-Founoroshi (Score 200)
+Founoroshi (Spécial)
 On recherche Zatoïshwan
 Le trésor de Totankama (partie 2)
 Une âme en peine
@@ -1019,7 +1019,7 @@ Clairière du Chêne Mou
 Chêne Mou (Liberté)
 Chêne Mou (Premier)
 Chêne Mou (Duo)
-Chêne Mou (Score 200)
+Chêne Mou (Spécial)
 Extinction des feux
 On dirait le Sud
 L'ombre et la proie
@@ -1032,7 +1032,7 @@ Laboratoire du Tynril
 Tynrils (Zombie)
 Tynrils (Intouchable)
 Tynrils (Duo)
-Tynrils (Score 200)
+Tynrils (Spécial)
 Nikwa : Voie des cinq griffes
 Questions existentielles
 Présence d'esprits (Esprit de sacrifice)
@@ -1045,7 +1045,7 @@ Dojo du Vent
 Hanshi et Shihan (Pusillanime)
 Hanshi et Shihan (Dernier)
 Hanshi et Shihan (Duo)
-Hanshi et Shihan (Score 200)
+Hanshi et Shihan (Spécial)
 Sang d'encre
 Vacances sur glace
 Récolte dans le lac gelé
@@ -1062,7 +1062,7 @@ Excavation du Mansot Royal
 Mansot Royal (Dernier)
 Mansot Royal (Collant)
 Mansot Royal (Duo)
-Mansot Royal (Score 200)
+Mansot Royal (Spécial)
 Il est frais mon pichon
 L'essentiel est dans Lac Gelé
 Malédiction !
@@ -1100,7 +1100,7 @@ Galerie du Phossile
 Phossile (Liberté)
 Phossile (Hardi)
 Phossile (Duo)
-Phossile (Score 200)
+Phossile (Spécial)
 Phorreurs
 Les grandes galeries
 Un cœur d'or
@@ -1123,7 +1123,7 @@ Repaire de Sphincter Cell
 Sphincter Cell (Dernier)
 Sphincter Cell (Hardi)
 Sphincter Cell (Duo)
-Sphincter Cell (Score 200)
+Sphincter Cell (Spécial)
 Alignement Brâkmar 66
 Alignement Brâkmar 67
 Alignement Brâkmar 68
@@ -1143,7 +1143,7 @@ La bénédiction de Thomahon (Ben le Ripate)
 Ben le Ripate (Statue)
 Ben le Ripate (Circulez)
 Ben le Ripate (Duo)
-Ben le Ripate (Score 200)
+Ben le Ripate (Spécial)
 Bijoux de famille
 On recherche Fantômayte
 Ikwa : Voie du guerrier ivre
@@ -1157,7 +1157,7 @@ Tertre du long sommeil
 Hell Mina (Dernier)
 Hell Mina (Statue)
 Hell Mina (Duo)
-Hell Mina (Score 200)
+Hell Mina (Spécial)
 Les mystères de la forêt
 Alchimiste 160
 Paysan 160
@@ -1179,14 +1179,14 @@ Canopée du Kimbo
 Kimbo (Premier)
 Kimbo (Statue)
 Kimbo (Duo)
-Kimbo (Score 200)
+Kimbo (Spécial)
 On recherche Glandalf l'Aigri
 La voie du guerrier (Minotot)
 Salle du Minotot
 Minotot (Premier)
 Minotot (Circulez)
 Minotot (Duo)
-Minotot (Score 200)
+Minotot (Spécial)
 Une blague vaseuse ?
 Un volcan s'éteint
 Récolte dans les larmes d'Ouronigride
@@ -1199,7 +1199,7 @@ Hypogée de l'Obsidiantre
 Obsidiantre (Premier)
 Obsidiantre (Statue)
 Obsidiantre (Duo)
-Obsidiantre (Score 200)
+Obsidiantre (Spécial)
 Art nacre
 Inferno
 On recherche Vengeuse Masquée
@@ -1223,7 +1223,7 @@ Grotte de Kanigroula
 Kanigroula (Premier)
 Kanigroula (Hardi)
 Kanigroula (Duo)
-Kanigroula (Score 200)
+Kanigroula (Spécial)
 On recherche Anatak Diskedor
 Sanctuaires de famille
 GaBuZoMeu
@@ -1238,7 +1238,7 @@ Plateau de Ush
 Ush Galesh (Premier)
 Ush Galesh (Zombie)
 Ush Galesh (Duo)
-Ush Galesh (Score 200)
+Ush Galesh (Spécial)
 Matougarous
 Présence d'esprits (Mauvais esprit)
 Sombre mystère
@@ -1251,7 +1251,7 @@ Tombe du Shogun Tofugawa
 Shogun Tofugawa (Premier)
 Shogun Tofugawa (Hardi)
 Shogun Tofugawa (Duo)
-Shogun Tofugawa (Score 200)
+Shogun Tofugawa (Spécial)
 Alchimiste 170
 Paysan 170
 Pêcheur 170
@@ -1276,7 +1276,7 @@ Cavernes Givrefoux
 Tengu Givrefoux (Premier)
 Tengu Givrefoux (Statue)
 Tengu Givrefoux (Duo)
-Tengu Givrefoux (Score 200)
+Tengu Givrefoux (Spécial)
 Obscurantisme
 Tous pour un
 Les rescapés de Frigost
@@ -1297,7 +1297,7 @@ Horologium de XLII
 XLII (Collant)
 XLII (Barbare)
 XLII (Duo)
-XLII (Score 200)
+XLII (Spécial)
 Hordémons
 On recherche Hin
 Alignement Brâkmar 71
@@ -1324,7 +1324,7 @@ Boyau du Père Ver
 Père Ver (Premier)
 Père Ver (Zombie)
 Père Ver (Duo)
-Père Ver (Score 200)
+Père Ver (Spécial)
 On recherche Ka'Youloud
 Sécurité routière
 Jusqu'à leur dernier soupir
@@ -1336,7 +1336,7 @@ Demeure des esprits
 Koumiho (Focus)
 Koumiho (Premier)
 Koumiho (Duo)
-Koumiho (Score 200)
+Koumiho (Spécial)
 Si loin, si proches
 Nidanwa : Harmonie intérieure
 On recherche Crasper
@@ -1362,7 +1362,7 @@ Grotte du Bworker
 Bworker (Hardi)
 Bworker (Blitzkrieg)
 Bworker (Duo)
-Bworker (Score 200)
+Bworker (Spécial)
 Le tracas du guerrier
 On recherche le Shushu Debruk'Sayl
 Alignement Brâkmar 79
@@ -1382,7 +1382,7 @@ Temple du Grand Ougah
 Ougah (Dernier)
 Ougah (Collant)
 Ougah (Duo)
-Ougah (Score 200)
+Ougah (Spécial)
 On recherche Carter le Pillard
 Alignement Brâkmar 81
 Alignement Brâkmar 82
@@ -1408,7 +1408,7 @@ Antre du Korriandre
 Korriandre (Mystique)
 Korriandre (Zombie)
 Korriandre (Duo)
-Korriandre (Score 200)
+Korriandre (Spécial)
 Voleur en tout genre
 On recherche Dremoan
 Il était une foi dans l'Ouest (partie 2)
@@ -1427,7 +1427,7 @@ Cave du Toxoliath
 Toxoliath (Anachorète)
 Toxoliath (Circulez)
 Toxoliath (Duo)
-Toxoliath (Score 200)
+Toxoliath (Spécial)
 Nécrotiques
 On recherche la Mouchâme
 Alignement Brâkmar 86
@@ -1459,7 +1459,7 @@ Cavernes du Kolosso
 Kolosso (Premier)
 Kolosso (Dernier)
 Kolosso (Duo)
-Kolosso (Score 200)
+Kolosso (Spécial)
 La transe du crystal
 Le travail c'est la santé
 On recherche Flasho
@@ -1473,7 +1473,7 @@ Antichambre du Glourséleste
 Glourséleste (Premier)
 Glourséleste (Collant)
 Glourséleste (Duo)
-Glourséleste (Score 200)
+Glourséleste (Spécial)
 Glourmandise
 On recherche le Guerrier du K.O.
 On recherche Viti Glourson
@@ -1484,14 +1484,14 @@ Cavernes Givrefoux Nourricières
 Fuji Givrefoux (Dernier)
 Fuji Givrefoux (Statue)
 Fuji Givrefoux (Duo)
-Fuji Givrefoux (Score 200)
+Fuji Givrefoux (Spécial)
 L'armée des ombres
 Obscuranti
 Pyramide d'Ombre
 Ombre (Premier)
 Ombre (Collant)
 Ombre (Duo)
-Ombre (Score 200)
+Ombre (Spécial)
 On recherche le Sans Visage
 Au fion du trou
 Alignement Brâkmar 90
@@ -1501,7 +1501,7 @@ Mine de Sakaï
 Grolloum (Blitzkrieg)
 Grolloum (Versatile)
 Grolloum (Duo)
-Grolloum (Score 200)
+Grolloum (Spécial)
 On recherche le Docteur Eggob
 Frais de porc inclus
 Shyriiwook
@@ -1514,7 +1514,7 @@ Camp du Comte Razof
 Comte Razof (Premier)
 Comte Razof (Liberté)
 Comte Razof (Duo)
-Comte Razof (Score 200)
+Comte Razof (Spécial)
 On recherche Predagob
 Un événement inattendu
 L'île maudite
@@ -1523,7 +1523,7 @@ Bastion des Marteaux-Aigris
 Barbéyl Clochecuivre (Dernier)
 Barbéyl Clochecuivre (Versatile)
 Barbéyl Clochecuivre (Duo)
-Barbéyl Clochecuivre (Score 200)
+Barbéyl Clochecuivre (Spécial)
 Chercher un Marteau-Aigri dans une galerie d'Ereboria
 La fin des maningances
 Alignement Brâkmar 91
@@ -1570,7 +1570,7 @@ Laboratoire de Nileza
 Nileza (Dernier)
 Nileza (Pusillanime)
 Nileza (Duo)
-Nileza (Score 200)
+Nileza (Spécial)
 On recherche Glourdorak
 Les desseins de Sylargh
 Chaud et froid (Sylargh)
@@ -1579,7 +1579,7 @@ Transporteur de Sylargh
 Sylargh (Anachorète)
 Sylargh (Barbare)
 Sylargh (Duo)
-Sylargh (Score 200)
+Sylargh (Spécial)
 On recherche Mekamouth
 Vous avez demandé la peau lisse ?
 Chaud et froid (Klime)
@@ -1588,7 +1588,7 @@ Salons privés de Klime
 Klime (Nomade)
 Klime (Pusillanime)
 Klime (Duo)
-Klime (Score 200)
+Klime (Spécial)
 On recherche Psikopompe
 La dernière carte
 Alignement Brâkmar 97
@@ -1599,7 +1599,7 @@ Forgefroide de Missiz Frizz
 Missiz Frizz (Nomade)
 Missiz Frizz (Collant)
 Missiz Frizz (Duo)
-Missiz Frizz (Score 200)
+Missiz Frizz (Spécial)
 On recherche le Chevalier de Glace
 La machine à démonter le temps
 Crise d'ex-Emma
@@ -1610,7 +1610,7 @@ Donjon du Comte
 Comte Harebourg (Statue)
 Comte Harebourg (Versatile)
 Comte Harebourg (Duo)
-Comte Harebourg (Score 200)
+Comte Harebourg (Spécial)
 Harebourg et Frizz
 Harebourg et Sylargh
 Harebourg et Klime
@@ -1638,7 +1638,7 @@ Belvédère d'Ilyzaelle
 Ilyzaelle (Liberté)
 Ilyzaelle (Focus)
 Ilyzaelle (Duo)
-Ilyzaelle (Score 200)
+Ilyzaelle (Spécial)
 L'ivresse des profondeurs
 À bras Kralab Rah
 KO pour Bosko Tho
@@ -1655,7 +1655,7 @@ Aquadôme de Merkator
 Merkator (Dernier)
 Merkator (Mystique)
 Merkator (Duo)
-Merkator (Score 200)
+Merkator (Spécial)
 On recherche l'Hyperscampe
 On recherche Grand Kongoku
 Recrue explosive
@@ -1688,7 +1688,7 @@ Antre du Kralamoure Géant
 Kralamoure Géant (Nomade)
 Kralamoure Géant (Blitzkrieg)
 Kralamoure Géant (Duo)
-Kralamoure Géant (Score 200)
+Kralamoure Géant (Spécial)
 On recherche Ali Grothor
 La dernière pierre
 Les coûts du sort
@@ -1717,7 +1717,7 @@ Palais du Roi Nidas
 Roi Nidas (Premier)
 Roi Nidas (Statue)
 Roi Nidas (Trio)
-Roi Nidas (Score 200)
+Roi Nidas (Spécial)
 Énutrofors
 On recherche Voldelor
 Faux-semblants
@@ -1739,7 +1739,7 @@ Trône de la Cour Sombre
 Reine des Voleurs (Premier)
 Reine des Voleurs (Collant)
 Reine des Voleurs (Trio)
-Reine des Voleurs (Score 200)
+Reine des Voleurs (Spécial)
 Cour Sombre
 On recherche Gein
 Déchirures temporelles
@@ -1757,7 +1757,7 @@ Les sables du temps
 Vortex (Hardi)
 Vortex (Focus)
 Vortex (Trio)
-Vortex (Score 200)
+Vortex (Spécial)
 Égarés
 On recherche Sicogne
 La pêche aux infos
@@ -1780,7 +1780,7 @@ Vaisseau du Capitaine Meno
 Capitaine Meno (Blitzkrieg)
 Capitaine Meno (Pusillanime)
 Capitaine Meno (Duo)
-Capitaine Meno (Score 200)
+Capitaine Meno (Spécial)
 On recherche le Homard Medali
 Qui a la plus grosse ?
 Droit de cuissage
@@ -1791,7 +1791,7 @@ Palais de Dantinéa
 Dantinéa (Dernier)
 Dantinéa (Statue)
 Dantinéa (Duo)
-Dantinéa (Score 200)
+Dantinéa (Spécial)
 Rançon nage
 Stratégie en Trithon Réel
 Sur fond de crise
@@ -1811,7 +1811,7 @@ Temple de Koutoulou
 Larve de Koutoulou (Hardi)
 Larve de Koutoulou (Pusillanime)
 Larve de Koutoulou (Duo)
-Larve de Koutoulou (Score 200)
+Larve de Koutoulou (Spécial)
 Fhtagn !
 On recherche Takomako
 Le héros de Sufokia
@@ -1828,7 +1828,7 @@ Défi du Chalœil
 Chalœil (Pusillanime)
 Chalœil (Liberté)
 Chalœil (Trio)
-Chalœil (Score 200)
+Chalœil (Spécial)
 Grand Jeu
 Ponctions létales
 Grand corps malade
@@ -1839,7 +1839,7 @@ Ventre de la baleine
 Protozorreur (Barbare)
 Protozorreur (Statue)
 Protozorreur (Duo)
-Protozorreur (Score 200)
+Protozorreur (Spécial)
 Le pays gris
 Casse en Énutrosor
 Perché là-haut
@@ -1855,7 +1855,7 @@ Chambre de Tal Kasha
 Tal Kasha (Statue)
 Tal Kasha (Focus)
 Tal Kasha (Duo)
-Tal Kasha (Score 200)
+Tal Kasha (Spécial)
 On recherche le Kheprikorne
 Le bonheur est dans le spray
 Une voix de crystal (Nileza)
@@ -1869,7 +1869,7 @@ Manoir des Katrepat
 Anerice la Shushess (Premier)
 Anerice la Shushess (Pusillanime)
 Anerice la Shushess (Duo)
-Anerice la Shushess (Score 200)
+Anerice la Shushess (Spécial)
 Le guerrier noir
 Nordalie (partie 2)
 Il est temps de mourir
@@ -1896,7 +1896,7 @@ Tour de Bethel
 Bethel Akarna (Mystique)
 Bethel Akarna (Zombie)
 Bethel Akarna (Duo)
-Bethel Akarna (Score 200)
+Bethel Akarna (Spécial)
 Le creuset de Mériana
 Une douloureuse séparation
 Frappez, ami, et entrez
@@ -1916,7 +1916,7 @@ Brasserie du roi Dazak
 Dazak Martegel (Liberté)
 Dazak Martegel (Premier)
 Dazak Martegel (Duo)
-Dazak Martegel (Score 200)
+Dazak Martegel (Spécial)
 De Brikke et de Brokke (partie 4)
 La bible des rancunes
 Le dragon noir (Klime)
@@ -1936,7 +1936,7 @@ Tour de Solar
 Solar (Versatile)
 Solar (Focus)
 Solar (Duo)
-Solar (Score 200)
+Solar (Spécial)
 Dans la gueule du dragon
 S'armer contre le destin
 La fin… ou le commencement
@@ -1960,7 +1960,7 @@ Sentence de la Balance
 Misère (Hardi)
 Misère (Mains propres)
 Misère (Duo)
-Misère (Score 200)
+Misère (Spécial)
 Les racines du mal
 Un pouvoir mérydique
 Mort et renouveau
@@ -1969,7 +1969,7 @@ Arbre de mort
 Corruption (Collant)
 Corruption (Mains propres)
 Corruption (Duo)
-Corruption (Score 200)
+Corruption (Spécial)
 Le jour le plus long
 Au-delà de la gloire
 Voyage au bout de l'Externam
@@ -1978,7 +1978,7 @@ Trône de sang
 Guerre (Zombie)
 Guerre (Anachorète)
 Guerre (Duo)
-Guerre (Score 200)
+Guerre (Spécial)
 Le navire aux esclaves
 Briser ses chaînes
 Une boîte pour les asservir tous
@@ -1987,7 +1987,7 @@ Fers de la Tyrannie
 Servitude (Focus)
 Servitude (Versatile)
 Servitude (Duo)
-Servitude (Score 200)
+Servitude (Spécial)
 Les quatre volontés (partie 2)
 Prise de conscience (partie 1)
 L'avis de la Mort
@@ -2008,7 +2008,7 @@ Sanctuaire de Torkélonia
 Torkélonia (Dernier)
 Torkélonia (Statue)
 Torkélonia (Duo)
-Torkélonia (Score 200)
+Torkélonia (Spécial)
 Amaknanomalie
 La mère des Dragœufs
 Cauchemar infini
@@ -2025,7 +2025,7 @@ Mémoire d'Orukam
 Reine Amirukam (Pusillanime)
 Reine Amirukam (Mains propres)
 Reine Amirukam (Trio)
-Reine Amirukam (Score 200)
+Reine Amirukam (Spécial)
 Yokianzhi d'encre
 Des aliments extraordinaires pour un chacha extraordinaire
 Deux souffles, une inspiration (Souvenirs d'Imagiro)
@@ -2033,7 +2033,7 @@ Souvenirs d'Imagiro
 Roi Imagami (Hardi)
 Roi Imagami (Mains propres)
 Roi Imagami (Trio)
-Roi Imagami (Score 200)
+Roi Imagami (Spécial)
 Yokianzhi de papier
 Tant de mots et si peu de temps
 Main dans la main (partie 2)
@@ -2053,7 +2053,7 @@ Rituel de Kabahal
 Kabahal (Hardi)
 Kabahal (Mains propres)
 Kabahal (Duo)
-Kabahal (Score 200)
+Kabahal (Spécial)
 Au détour d'un rêve perdu
 Toute possession dépossède
 Le chant du Pandamonium
@@ -2073,7 +2073,7 @@ Bataille de l'Aurore Pourpre
 L'Éternel Conflit (Zombie)
 L'Éternel Conflit (Premier)
 L'Éternel Conflit (Duo)
-L'Éternel Conflit (Score 200)
+L'Éternel Conflit (Spécial)
 Descendre aux cendres
 Un héritage tourmenté (partie 1)
 Les totems de Maïmane
@@ -2136,7 +2136,7 @@ Chambre des maléfices
 Belladone (Collant)
 Belladone (Mains propres)
 Belladone (Duo)
-Belladone (Score 200)
+Belladone (Spécial)
 La graine de la révolte
 Par l'héritage qui vous lie
 Une dernière volonté

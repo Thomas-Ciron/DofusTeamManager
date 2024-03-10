@@ -35,7 +35,7 @@ namespace DofusTeamManager.Model
 
         public Party(Servors servor)
         {
-            Logger.Save("Building party for servor " + servor + "...");
+            Logger.Save($"Building party for servor {servor}...");
             Servor = servor;
             PartyMaxSize = servor.GetPartySize();
             Characters = new List<Character>();
@@ -47,7 +47,51 @@ namespace DofusTeamManager.Model
                 if (CanCharacterJoin(Candidates[i])) Add(Candidates[i]);
                 ++i;
             }
-            Logger.Save("Party built: " + string.Join(", ", Characters));
+            Logger.SaveList("Party built", Characters);
+        }
+
+        public Party(Servors servor, string achievement)
+        {
+            Logger.Save($"Building party for servor {servor} and achievement {achievement}...");
+            Candidates = Character.GetAll(servor);
+            Servor = servor;
+            PartyMaxSize = servor.GetPartySize();
+            LoadLastParty(achievement);
+            int i = 0;
+            while(i < Candidates.Count && !IsFull())
+            {
+                Logger.Save($"\tChecking for {Candidates[i]}");
+                if (ShouldJoinParty(Candidates[i], achievement)) Characters.Add(Candidates[i]);
+                ++i;
+            }
+            Logger.SaveList("Party built", Characters);
+        }
+
+        public bool ShouldJoinParty(Character character, string achievement)
+        {
+            if (!CanCharacterJoin(character)) return false;
+            if (!character.ShouldDoAchievement(achievement)) return false;
+            if (!character.CanDoAchievement(achievement)) return false;
+            return true;
+        }
+
+        public string GetPartySavePath()
+        {
+            return $"Data/Party{Servor}.bin";
+        }
+
+        public void LoadLastParty(string achievement)
+        {
+            Characters = new List<Character>();
+            List<int> characterIndexes = FileManager.GetBytesFrom(GetPartySavePath());
+            if (characterIndexes == null) return;
+            foreach(int index in  characterIndexes)
+            {
+                if (Candidates[index].ShouldDoAchievement(achievement) && Candidates[index].CanDoAchievement(achievement))
+                {
+                    Characters.Add(Candidates[index]);
+                }
+            }
         }
 
         public List<string> GetCandidates(Character characterToReplace)
@@ -106,6 +150,7 @@ namespace DofusTeamManager.Model
             List<List<string>> achievements = FileManager.GetCsvContent("Data/Achievements" + Servor + ".csv");
             int i = 0;
             while (i < achievements.Count && achievements[i][0] != achievement) ++i;
+            List<byte> bytes = new List<byte>();
             foreach(Character character in Characters)
             {
                 if(character.ShouldDoAchievement(achievement))
@@ -113,8 +158,10 @@ namespace DofusTeamManager.Model
                     character.AchievementsToDo.Remove(achievement);
                     achievements[i].Remove(character.Name);
                 }
+                bytes.Add((byte)Candidates.IndexOf(character));
             }
             FileManager.SaveMatrixInCsv("Data/Achievements" + Servor + ".csv", achievements);
+            FileManager.WriteBytesInFile(GetPartySavePath(), bytes);
         }
 
 

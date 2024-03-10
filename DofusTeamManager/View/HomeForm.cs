@@ -43,5 +43,10 @@ namespace DofusTeamManager
             AddAccountForm addAccountForm = new AddAccountForm();
             addAccountForm.ShowDialog();
         }
+
+        private void ClickedOnQuest(object sender, EventArgs e)
+        {
+            LoadForm(new QuestForm());
+        }
     }
 }

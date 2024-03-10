@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace DofusTeamManager.Utils
 {
@@ -12,6 +13,11 @@ namespace DofusTeamManager.Utils
         public static void Save(string message)
         {
             FileManager.AddContentToFile("logs.txt", GetCurrentTime() + message);
+        }
+
+        public static void SaveList<T>(string message, List<T> list)
+        {
+            Save(message + ": [" + string.Join(", ", list) + "]");
         }
 
         public static void SaveTitle(string message)

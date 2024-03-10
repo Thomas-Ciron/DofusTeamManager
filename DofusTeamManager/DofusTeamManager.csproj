@@ -80,6 +80,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\QuestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\QuestForm.Designer.cs">
+      <DependentUpon>QuestForm.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="View\AddAccountForm.resx">
       <DependentUpon>AddAccountForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -101,7 +107,13 @@
     <EmbeddedResource Include="View\HomeForm.resx">
       <DependentUpon>HomeForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="View\QuestForm.resx">
+      <DependentUpon>QuestForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Data\Achievements.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Prérequis.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="Properties\Settings.settings">

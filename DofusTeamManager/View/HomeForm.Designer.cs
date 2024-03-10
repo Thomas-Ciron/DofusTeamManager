@@ -31,9 +31,12 @@
             this.menuStrip = new System.Windows.Forms.MenuStrip();
             this.charactersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.addCharacterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mainPanel = new System.Windows.Forms.Panel();
             this.comptesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ajouterUnCompteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mainPanel = new System.Windows.Forms.Panel();
+            this.activitésToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.donjonToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.quêteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -41,7 +44,8 @@
             // 
             this.menuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.charactersToolStripMenuItem,
-            this.comptesToolStripMenuItem});
+            this.comptesToolStripMenuItem,
+            this.activitésToolStripMenuItem});
             this.menuStrip.Location = new System.Drawing.Point(0, 0);
             this.menuStrip.Name = "menuStrip";
             this.menuStrip.Size = new System.Drawing.Size(800, 24);
@@ -63,13 +67,6 @@
             this.addCharacterToolStripMenuItem.Text = "Ajouter un personnage";
             this.addCharacterToolStripMenuItem.Click += new System.EventHandler(this.ClickedOnAddCharacter);
             // 
-            // mainPanel
-            // 
-            this.mainPanel.Location = new System.Drawing.Point(0, 28);
-            this.mainPanel.Name = "mainPanel";
-            this.mainPanel.Size = new System.Drawing.Size(800, 420);
-            this.mainPanel.TabIndex = 1;
-            // 
             // comptesToolStripMenuItem
             // 
             this.comptesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -81,9 +78,38 @@
             // ajouterUnCompteToolStripMenuItem
             // 
             this.ajouterUnCompteToolStripMenuItem.Name = "ajouterUnCompteToolStripMenuItem";
-            this.ajouterUnCompteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.ajouterUnCompteToolStripMenuItem.Size = new System.Drawing.Size(174, 22);
             this.ajouterUnCompteToolStripMenuItem.Text = "Ajouter un compte";
             this.ajouterUnCompteToolStripMenuItem.Click += new System.EventHandler(this.ClickedOnAddAccount);
+            // 
+            // mainPanel
+            // 
+            this.mainPanel.Location = new System.Drawing.Point(0, 28);
+            this.mainPanel.Name = "mainPanel";
+            this.mainPanel.Size = new System.Drawing.Size(800, 420);
+            this.mainPanel.TabIndex = 1;
+            // 
+            // activitésToolStripMenuItem
+            // 
+            this.activitésToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.donjonToolStripMenuItem,
+            this.quêteToolStripMenuItem});
+            this.activitésToolStripMenuItem.Name = "activitésToolStripMenuItem";
+            this.activitésToolStripMenuItem.Size = new System.Drawing.Size(64, 20);
+            this.activitésToolStripMenuItem.Text = "Activités";
+            // 
+            // donjonToolStripMenuItem
+            // 
+            this.donjonToolStripMenuItem.Name = "donjonToolStripMenuItem";
+            this.donjonToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.donjonToolStripMenuItem.Text = "Donjon";
+            // 
+            // quêteToolStripMenuItem
+            // 
+            this.quêteToolStripMenuItem.Name = "quêteToolStripMenuItem";
+            this.quêteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.quêteToolStripMenuItem.Text = "Quête";
+            this.quêteToolStripMenuItem.Click += new System.EventHandler(this.ClickedOnQuest);
             // 
             // HomeForm
             // 
@@ -112,6 +138,9 @@
         private System.Windows.Forms.Panel mainPanel;
         private System.Windows.Forms.ToolStripMenuItem comptesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ajouterUnCompteToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem activitésToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem donjonToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem quêteToolStripMenuItem;
     }
 }
 
